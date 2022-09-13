@@ -6,7 +6,8 @@
 .pnp.js
 
 sanityyoutube/node_modules
-*.text
+
+/commands
 
 # testing
 /coverage

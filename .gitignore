@@ -7,8 +7,6 @@
 
 sanityyoutube/node_modules
 
-
-
 # testing
 /coverage
 
@@ -39,4 +37,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-*.document
+
+# text file
+commands.txt

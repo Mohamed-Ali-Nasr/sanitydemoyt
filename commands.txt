@@ -28,7 +28,7 @@
  
 # sanity deploy (to deploy sanityyoutube project) and then
 
-# write the studio hostname (like [sanitystudioyt]) and then
+# write the studio hostname (like [sanitystudioyt]) and then got to the project file (cd ..)
 
 # git status (to show the status of files would be added it) and then
 
@@ -42,4 +42,6 @@
 
 # git push -u origin main (to push your files in that remote repo) and then
 
-# go to the vercel to complete the deployment
+# go to the vercel to complete the deployment 
+
+# before deploy in vercel you must add the environment variable that in (.env.local) file [you will add the name of variable and its value (you have three variables here)]
